@@ -1,2 +1,2 @@
 # first-example
-Done during R intro course
+Created during R intro course
